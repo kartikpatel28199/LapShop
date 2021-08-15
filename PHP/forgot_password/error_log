@@ -1,0 +1,37 @@
+[14-Apr-2018 19:02:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 11
+[14-Apr-2018 19:04:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '$ssql' (T_VARIABLE) in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 11
+[14-Apr-2018 19:04:26 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli() in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 12
+[14-Apr-2018 19:04:50 Etc/GMT] PHP Fatal error:  Call to undefined function mysqli_affetcted_rows() in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 17
+[14-Apr-2018 19:05:29 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_affetcted_rows() in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 17
+[14-Apr-2018 19:06:04 Etc/GMT] PHP Warning:  mysql_affected_rows() expects parameter 1 to be resource, object given in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 17
+[14-Apr-2018 19:06:14 Etc/GMT] PHP Warning:  mysql_affected_rows() expects parameter 1 to be resource, object given in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 17
+[14-Apr-2018 19:06:56 Etc/GMT] PHP Warning:  mysql_affected_rows() expects parameter 1 to be resource, object given in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 17
+[14-Apr-2018 19:07:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '"helllo"' (T_CONSTANT_ENCAPSED_STRING) in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 18
+[14-Apr-2018 19:08:01 Etc/GMT] PHP Warning:  mysql_affected_rows() expects parameter 1 to be resource, object given in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 17
+[14-Apr-2018 19:08:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '","' (T_CONSTANT_ENCAPSED_STRING) in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 19
+[14-Apr-2018 19:08:47 Etc/GMT] PHP Warning:  mysql_affected_rows() expects parameter 1 to be resource, object given in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 17
+[14-Apr-2018 19:09:44 Etc/GMT] PHP Warning:  mysql_affected_rows() expects parameter 1 to be resource, object given in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 17
+[14-Apr-2018 19:27:48 Etc/GMT] PHP Warning:  include_once(class.curl.php): failed to open stream: No such file or directory in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 24
+[14-Apr-2018 19:27:48 Etc/GMT] PHP Warning:  include_once(): Failed opening 'class.curl.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 24
+[14-Apr-2018 19:27:48 Etc/GMT] PHP Warning:  include_once(class.sms.php): failed to open stream: No such file or directory in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 25
+[14-Apr-2018 19:27:48 Etc/GMT] PHP Warning:  include_once(): Failed opening 'class.sms.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 25
+[14-Apr-2018 19:27:48 Etc/GMT] PHP Fatal error:  Class 'sms' not found in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 27
+[14-Apr-2018 19:30:18 Etc/GMT] PHP Warning:  include_once(class.curl.php): failed to open stream: No such file or directory in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 24
+[14-Apr-2018 19:30:18 Etc/GMT] PHP Warning:  include_once(): Failed opening 'class.curl.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 24
+[14-Apr-2018 19:30:18 Etc/GMT] PHP Warning:  include_once(class.sms.php): failed to open stream: No such file or directory in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 25
+[14-Apr-2018 19:30:18 Etc/GMT] PHP Warning:  include_once(): Failed opening 'class.sms.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 25
+[14-Apr-2018 19:30:18 Etc/GMT] PHP Fatal error:  Class 'sms' not found in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 27
+[15-Apr-2018 05:45:49 Etc/GMT] PHP Parse error:  syntax error, unexpected 'http' (T_STRING) in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 54
+[15-Apr-2018 05:47:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '7624069124' (T_LNUMBER) in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 24
+[15-Apr-2018 05:48:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '7624069124' (T_LNUMBER) in /home/lapshoping/public_html/Lapshop/forgot_password/send_message.php on line 24
+[15-Apr-2018 06:00:30 Etc/GMT] PHP Fatal error:  Call to undefined method mysqli_stmt::blind_result() in /home/lapshoping/public_html/Lapshop/forgot_password/show_otp.php on line 21
+[15-Apr-2018 06:01:06 Etc/GMT] PHP Fatal error:  Cannot pass parameter 1 by reference in /home/lapshoping/public_html/Lapshop/forgot_password/show_otp.php on line 21
+[15-Apr-2018 06:01:58 Etc/GMT] PHP Fatal error:  Cannot pass parameter 1 by reference in /home/lapshoping/public_html/Lapshop/forgot_password/show_otp.php on line 21
+[15-Apr-2018 09:33:08 Etc/GMT] PHP Notice:  Undefined index: e in /home/lapshoping/public_html/Lapshop/forgot_password/show_otp.php on line 10
+[15-Apr-2018 09:33:43 Etc/GMT] PHP Notice:  Undefined index: mobileno in /home/lapshoping/public_html/Lapshop/forgot_password/change_password.php on line 8
+[15-Apr-2018 09:33:43 Etc/GMT] PHP Notice:  Undefined index: password in /home/lapshoping/public_html/Lapshop/forgot_password/change_password.php on line 9
+[15-Apr-2018 09:33:43 Etc/GMT] PHP Warning:  mysql_affected_rows() expects parameter 1 to be resource, object given in /home/lapshoping/public_html/Lapshop/forgot_password/change_password.php on line 12
+[15-Apr-2018 09:34:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/lapshoping/public_html/Lapshop/forgot_password/change_password.php on line 18
+[15-Apr-2018 09:35:24 Etc/GMT] PHP Notice:  Undefined index: mobileno in /home/lapshoping/public_html/Lapshop/forgot_password/change_password.php on line 8
+[15-Apr-2018 09:35:24 Etc/GMT] PHP Notice:  Undefined index: password in /home/lapshoping/public_html/Lapshop/forgot_password/change_password.php on line 9
+[23-Apr-2018 12:14:14 Etc/GMT] PHP Fatal error:  Call to a member function execute() on a non-object in /home/lapshoping/public_html/Lapshop/forgot_password/show_otp.php on line 19

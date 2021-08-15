@@ -1,0 +1,77 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="net.in.lapshop.lapshop.homepage.compare">
+
+    <LinearLayout
+        android:layout_alignParentLeft="true"
+        android:id="@+id/l1"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="160dp"
+        android:layout_height="130dp">
+        <ImageView
+            android:id="@+id/imageView_addLaptop"
+            android:backgroundTint="#8f8b8d"
+            android:background="@drawable/compare_compare"
+            android:layout_width="100dp"
+            android:layout_height="100dp" />
+        <TextView
+            android:gravity="center"
+            android:textSize="17dp"
+            android:textColor="@color/black"
+            android:text="Add Laptop"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <View
+        android:layout_centerHorizontal="true"
+        android:id="@+id/v1"
+        android:background="#8f8b8d"
+        android:layout_width="1dp"
+        android:layout_height="150dp"/>
+    <LinearLayout
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@id/v1"
+        android:id="@+id/l2"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="160dp"
+        android:layout_height="130dp">
+        <ImageView
+            android:id="@+id/imageView_addLaptop2"
+            android:backgroundTint="#8f8b8d"
+            android:background="@drawable/compare_compare"
+            android:layout_width="100dp"
+            android:layout_height="100dp" />
+        <TextView
+            android:gravity="center"
+            android:textSize="17dp"
+            android:textColor="@color/black"
+            android:text="Add Laptop"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <View
+        android:id="@+id/v2"
+        android:layout_below="@id/l1"
+        android:background="#8f8b8d"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"/>
+    <Button
+        android:id="@+id/compare"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_margin="10dp"
+        android:layout_below="@id/v2"
+        android:text="Compare"
+        android:background="@color/orange"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+</RelativeLayout>

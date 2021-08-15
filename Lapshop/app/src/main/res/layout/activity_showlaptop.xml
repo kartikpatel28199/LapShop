@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="net.in.lapshop.lapshop.showlaptop.showlaptop">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <Button
+            android:background="@color/white"
+            android:layout_alignParentLeft="true"
+            android:id="@+id/showlaptop_filters"
+            android:text="Filters"
+            android:layout_width="200dp"
+            android:layout_height="match_parent" />
+        <View
+            android:layout_centerHorizontal="true"
+            android:background="@color/black"
+            android:layout_width="2dp"
+            android:layout_height="match_parent"/>
+        <Button
+            android:background="@color/white"
+            android:layout_alignParentRight="true"
+            android:id="@+id/showlaptop_sortby"
+            android:text="Sort By"
+            android:layout_width="200dp"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView_showlaptop"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

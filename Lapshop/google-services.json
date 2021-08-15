@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "346874345969",
+    "firebase_url": "https://bitnami-etgj253hmg.firebaseio.com",
+    "project_id": "bitnami-etgj253hmg",
+    "storage_bucket": "bitnami-etgj253hmg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346874345969:android:99e97642c93457cb",
+        "android_client_info": {
+          "package_name": "com.lapshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346874345969-fjkgnocrmka8rurg3cenmuhqj5f1b407.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGj2wYIO_cfoIcVZdfxmRQneG7VlFkDyo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

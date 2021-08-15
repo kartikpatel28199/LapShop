@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filterList">
+        <item>Brand</item>
+        <item>Price</item>
+        <item>Processor</item>
+        <item>Operating System</item>
+        <item>Ram</item>
+        <item>Screen Size</item>
+        <item>Graphics Memory</item>
+        <item>HDD</item>
+        <item>SSD</item>
+        <item>Touch Screen</item>
+    </string-array>
+    <string-array name="filter_brand">
+        <item>Acer</item>
+        <item>Dell</item>
+        <item>Lenovo</item>
+        <item>Hp</item>
+        <item>Toshiba</item>
+        <item>Lg</item>
+        <item>Apple</item>
+        <item>Micromax</item>
+        <item>Microsoft</item>
+        <item>Sony</item>
+        <item>Samsung</item>
+    </string-array>
+    <string-array name="filter_processor">
+        <item>Core i3</item>
+        <item>Core i5</item>
+        <item>Core i9</item>
+        <item>Intel Atom</item>
+        <item>AMD APU E2</item>
+        <item>Intel pentium</item>
+        <item>Intel Celeron</item>
+        <item>AMD APU A4</item>
+        <item>AMD APU A10</item>
+        <item>AMD APU E1</item>
+    </string-array>
+    <string-array name="filter_os">
+        <item>Dos</item>
+        <item>Linux</item>
+        <item>Windows 7</item>
+        <item>Windows 8.1</item>
+        <item>Windows 10</item>
+        <item>Ubuntu</item>
+    </string-array>
+    <string-array name="filter_ram">
+        <item>2GB</item>
+        <item>4GB</item>
+        <item>6GB</item>
+        <item>8GB</item>
+        <item>12GB</item>
+        <item>16GB</item>
+        <item>32GB</item>
+        <item>64GB</item>
+    </string-array>
+    <string-array name="filter_graphics_memory">
+        <item>2GB</item>
+        <item>4GB</item>
+        <item>6GB</item>
+        <item>8GB</item>
+    </string-array>
+    <string-array name="filter_hdd">
+        <item>256GB</item>
+        <item>500GB</item>
+        <item>1TB</item>
+        <item>2GB</item>
+    </string-array>
+
+    <string-array name="filter_ssd">
+        <item>24GB</item>
+        <item>128GB</item>
+    </string-array>
+
+    <string-array name="filter_touch_scrren">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+</resources>

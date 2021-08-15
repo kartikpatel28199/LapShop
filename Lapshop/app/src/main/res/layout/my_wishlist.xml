@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <android.support.v7.widget.CardView
+            android:id="@+id/cardView_wishlist"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="15dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="7dp"
+                    android:id="@+id/imageViewWishList"
+                    android:layout_width="130dp"
+                    android:layout_height="130dp" />
+
+                <TextView
+                    android:id="@+id/laptop_title_wishlist"
+                    android:layout_width="210dp"
+                    android:layout_toRightOf="@id/imageViewWishList"
+                    android:layout_height="wrap_content"
+                    android:text="Title"
+                    android:textColor="#000"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/remove"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_alignParentEnd="true"
+                    android:background="@drawable/mycart_wishlist_remove" />
+
+                <TextView
+                    android:id="@+id/laptop_brand_wishlist"
+                    android:layout_width="match_parent"
+                    android:layout_toRightOf="@id/imageViewWishList"
+                    android:layout_below="@id/laptop_title_wishlist"
+                    android:layout_height="wrap_content"
+                    android:text="Brand" />
+
+                <TextView
+                    android:id="@+id/screensize_wishlist"
+                    android:layout_width="wrap_content"
+                    android:layout_height="25dp"
+                    android:layout_toRightOf="@id/imageViewWishList"
+                    android:layout_below="@id/laptop_brand_wishlist"
+                    android:text="Screen Size" />
+
+                <TextView
+                    android:layout_below="@id/laptop_brand_wishlist"
+                    android:layout_toRightOf="@id/screensize_wishlist"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="," />
+
+                <TextView
+                    android:id="@+id/color_wishlist"
+                    android:layout_below="@id/laptop_brand_wishlist"
+                    android:layout_toRightOf="@id/screensize_wishlist"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:text="Color" />
+
+                <TextView
+                    android:layout_toRightOf="@id/imageViewWishList"
+                    android:layout_below="@id/screensize_wishlist"
+                    android:id="@+id/laptop_price_wishlist"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="PRICE"
+                    android:textStyle="bold"
+                    android:textColor="#000"
+                    android:textSize="20dp" />
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+    </android.support.v4.widget.NestedScrollView>
+</LinearLayout>

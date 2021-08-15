@@ -1,0 +1,98 @@
+[14-Apr-2018 03:56:37 Etc/GMT] PHP Notice:  Undefined index: sid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 4
+[14-Apr-2018 03:56:37 Etc/GMT] PHP Notice:  Undefined index: c_email in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 5
+[14-Apr-2018 03:56:37 Etc/GMT] PHP Notice:  Undefined index: s_email in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 6
+[14-Apr-2018 03:56:37 Etc/GMT] PHP Notice:  Undefined index: tid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 7
+[14-Apr-2018 03:56:37 Etc/GMT] PHP Notice:  Undefined index: maid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 8
+[14-Apr-2018 06:09:09 Etc/GMT] PHP Notice:  Undefined index: id in /home/lapshoping/public_html/Lapshop/order/show_laptop_details.php on line 10
+[14-Apr-2018 06:09:26 Etc/GMT] PHP Notice:  Undefined index: id in /home/lapshoping/public_html/Lapshop/order/show_laptop_details.php on line 10
+[14-Apr-2018 06:10:42 Etc/GMT] PHP Notice:  Undefined index: id in /home/lapshoping/public_html/Lapshop/order/show_laptop_details.php on line 10
+[14-Apr-2018 09:42:53 Etc/GMT] PHP Notice:  Undefined index: maid in /home/lapshoping/public_html/Lapshop/order/show_address_details1.php on line 5
+[14-Apr-2018 09:43:29 Etc/GMT] PHP Notice:  Undefined index: maid in /home/lapshoping/public_html/Lapshop/order/show_address_details1.php on line 5
+[15-Apr-2018 19:59:21 Etc/GMT] PHP Notice:  Undefined index: sid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 4
+[15-Apr-2018 19:59:21 Etc/GMT] PHP Notice:  Undefined index: price in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 5
+[15-Apr-2018 19:59:21 Etc/GMT] PHP Notice:  Undefined index: c_email in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 6
+[15-Apr-2018 19:59:21 Etc/GMT] PHP Notice:  Undefined index: cdid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 7
+[15-Apr-2018 19:59:21 Etc/GMT] PHP Notice:  Undefined index: maid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 8
+[15-Apr-2018 20:12:55 Etc/GMT] PHP Notice:  Undefined index: c_email in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 6
+[15-Apr-2018 20:18:21 Etc/GMT] PHP Parse error:  syntax error, unexpected '$qry' (T_VARIABLE) in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 10
+[15-Apr-2018 20:18:58 Etc/GMT] PHP Notice:  Undefined index: sid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 4
+[15-Apr-2018 20:18:58 Etc/GMT] PHP Notice:  Undefined index: price in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 5
+[15-Apr-2018 20:18:58 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 6
+[15-Apr-2018 20:18:58 Etc/GMT] PHP Notice:  Undefined index: cdid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 7
+[15-Apr-2018 20:18:58 Etc/GMT] PHP Notice:  Undefined index: maid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 8
+[15-Apr-2018 20:18:58 Etc/GMT] PHP Notice:  Undefined index: payment_method in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 9
+[15-Apr-2018 20:18:58 Etc/GMT] PHP Notice:  Undefined variable: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 10
+[15-Apr-2018 22:49:53 Etc/GMT] PHP Notice:  Undefined index: sid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 4
+[15-Apr-2018 22:49:53 Etc/GMT] PHP Notice:  Undefined index: price in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 5
+[15-Apr-2018 22:49:53 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 6
+[15-Apr-2018 22:49:53 Etc/GMT] PHP Notice:  Undefined index: cdid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 7
+[15-Apr-2018 22:49:53 Etc/GMT] PHP Notice:  Undefined index: maid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 8
+[15-Apr-2018 22:49:53 Etc/GMT] PHP Notice:  Undefined index: payment_method in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 9
+[15-Apr-2018 22:49:53 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 15
+[15-Apr-2018 22:49:53 Etc/GMT] PHP Notice:  Undefined variable: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 19
+[15-Apr-2018 22:51:38 Etc/GMT] PHP Notice:  Undefined index: sid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 4
+[15-Apr-2018 22:51:38 Etc/GMT] PHP Notice:  Undefined index: price in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 5
+[15-Apr-2018 22:51:38 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 6
+[15-Apr-2018 22:51:38 Etc/GMT] PHP Notice:  Undefined index: cdid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 7
+[15-Apr-2018 22:51:38 Etc/GMT] PHP Notice:  Undefined index: maid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 8
+[15-Apr-2018 22:51:38 Etc/GMT] PHP Notice:  Undefined index: payment_method in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 9
+[15-Apr-2018 22:51:38 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 15
+[15-Apr-2018 22:51:38 Etc/GMT] PHP Notice:  Undefined variable: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 19
+[15-Apr-2018 22:52:15 Etc/GMT] PHP Notice:  Undefined index: sid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 4
+[15-Apr-2018 22:52:15 Etc/GMT] PHP Notice:  Undefined index: price in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 5
+[15-Apr-2018 22:52:15 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 6
+[15-Apr-2018 22:52:15 Etc/GMT] PHP Notice:  Undefined index: cdid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 7
+[15-Apr-2018 22:52:15 Etc/GMT] PHP Notice:  Undefined index: maid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 8
+[15-Apr-2018 22:52:15 Etc/GMT] PHP Notice:  Undefined index: payment_method in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 9
+[15-Apr-2018 22:52:15 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 15
+[15-Apr-2018 22:52:15 Etc/GMT] PHP Notice:  Undefined variable: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 19
+[15-Apr-2018 22:52:56 Etc/GMT] PHP Notice:  Undefined index: sid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 4
+[15-Apr-2018 22:52:56 Etc/GMT] PHP Notice:  Undefined index: price in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 5
+[15-Apr-2018 22:52:56 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 6
+[15-Apr-2018 22:52:56 Etc/GMT] PHP Notice:  Undefined index: cdid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 7
+[15-Apr-2018 22:52:56 Etc/GMT] PHP Notice:  Undefined index: maid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 8
+[15-Apr-2018 22:52:56 Etc/GMT] PHP Notice:  Undefined index: payment_method in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 9
+[15-Apr-2018 22:52:56 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 15
+[15-Apr-2018 22:52:56 Etc/GMT] PHP Notice:  Undefined variable: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 20
+[15-Apr-2018 22:53:19 Etc/GMT] PHP Notice:  Undefined index: sid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 4
+[15-Apr-2018 22:53:19 Etc/GMT] PHP Notice:  Undefined index: price in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 5
+[15-Apr-2018 22:53:19 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 6
+[15-Apr-2018 22:53:19 Etc/GMT] PHP Notice:  Undefined index: cdid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 7
+[15-Apr-2018 22:53:19 Etc/GMT] PHP Notice:  Undefined index: maid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 8
+[15-Apr-2018 22:53:19 Etc/GMT] PHP Notice:  Undefined index: payment_method in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 9
+[15-Apr-2018 22:53:19 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 15
+[15-Apr-2018 22:53:19 Etc/GMT] PHP Notice:  Undefined variable: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 20
+[15-Apr-2018 22:54:55 Etc/GMT] PHP Notice:  Undefined index: sid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 4
+[15-Apr-2018 22:54:55 Etc/GMT] PHP Notice:  Undefined index: price in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 5
+[15-Apr-2018 22:54:55 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 6
+[15-Apr-2018 22:54:55 Etc/GMT] PHP Notice:  Undefined index: cdid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 7
+[15-Apr-2018 22:54:55 Etc/GMT] PHP Notice:  Undefined index: maid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 8
+[15-Apr-2018 22:54:55 Etc/GMT] PHP Notice:  Undefined index: payment_method in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 9
+[15-Apr-2018 22:54:55 Etc/GMT] PHP Notice:  Undefined variable: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 20
+[15-Apr-2018 23:03:06 Etc/GMT] PHP Notice:  Undefined variable: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 20
+[15-Apr-2018 23:04:07 Etc/GMT] PHP Notice:  Undefined index: sid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 4
+[15-Apr-2018 23:04:07 Etc/GMT] PHP Notice:  Undefined index: price in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 5
+[15-Apr-2018 23:04:07 Etc/GMT] PHP Notice:  Undefined index: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 6
+[15-Apr-2018 23:04:07 Etc/GMT] PHP Notice:  Undefined index: cdid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 7
+[15-Apr-2018 23:04:07 Etc/GMT] PHP Notice:  Undefined index: maid in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 8
+[15-Apr-2018 23:04:07 Etc/GMT] PHP Notice:  Undefined index: payment_method in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 9
+[15-Apr-2018 23:04:07 Etc/GMT] PHP Notice:  Undefined variable: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 20
+[15-Apr-2018 23:06:19 Etc/GMT] PHP Notice:  Undefined variable: cemail in /home/lapshoping/public_html/Lapshop/order/inser_ordernow_data.php on line 19
+[23-Apr-2018 11:18:17 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 20
+[23-Apr-2018 11:19:27 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 20
+[23-Apr-2018 11:19:59 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 20
+[23-Apr-2018 11:20:01 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 20
+[23-Apr-2018 11:26:37 Etc/GMT] PHP Notice:  Undefined index: onoid in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 21
+[23-Apr-2018 11:26:37 Etc/GMT] PHP Fatal error:  Call to a member function execute() on a non-object in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 24
+[23-Apr-2018 11:27:24 Etc/GMT] PHP Notice:  Undefined index: onoid in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 21
+[23-Apr-2018 11:27:42 Etc/GMT] PHP Notice:  Undefined index: onoid in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 21
+[23-Apr-2018 11:28:19 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 21
+[23-Apr-2018 11:29:31 Etc/GMT] PHP Fatal error:  Call to undefined function fetch_assoc() in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 20
+[23-Apr-2018 11:29:53 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 20
+[23-Apr-2018 11:30:25 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 20
+[23-Apr-2018 11:31:01 Etc/GMT] PHP Notice:  Undefined index: onoid in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 21
+[23-Apr-2018 11:31:57 Etc/GMT] PHP Notice:  Undefined index: max(onoid) in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 21
+[23-Apr-2018 11:32:14 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 21
+[23-Apr-2018 11:47:31 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 20
+[23-Apr-2018 11:47:50 Etc/GMT] PHP Fatal error:  Call to a member function execute() on a non-object in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 19
+[23-Apr-2018 11:48:33 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/lapshoping/public_html/Lapshop/order/show_otp.php on line 20

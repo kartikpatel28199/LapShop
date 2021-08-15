@@ -1,0 +1,2 @@
+[01-Apr-2018 17:51:35 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/lapshoping/public_html/Lapshop/profile_update/update_customer_profile.php on line 9
+[04-Apr-2018 20:09:22 Etc/GMT] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/lapshoping/public_html/Lapshop/profile_update/update_customer_profile.php on line 9
